@@ -195,7 +195,7 @@ public class MainPage extends TestBaseRapor {
     public int belirliAraliktaSayiUret(int size) {
         Random rand = new Random();
 
-        int R = rand.nextInt(1,size);
+        int R = rand.nextInt();
 
         return R;
 
@@ -285,7 +285,7 @@ public class MainPage extends TestBaseRapor {
 
     public static int rnd(){
         Random rnd=new Random();
-        return rnd.nextInt(1,49);
+        return rnd.nextInt();
     }
 
 

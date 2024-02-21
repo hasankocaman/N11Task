@@ -2803,3 +2803,12 @@
 2023-10-18 22:41:27,934 INFO  [Log] https://www.n11.com/   test Url acildi 
 2023-10-18 22:41:28,007 INFO  [Log] https://www.n11.com/ url acildi 
 2023-10-18 22:41:33,833 ERROR [Log] Cerezler kabul edilemedi. 
+2023-10-25 22:24:02,197 INFO  [Log] N11 UI Testi basladi 
+2023-10-25 22:24:28,380 INFO  [Log] https://www.n11.com/   test Url acildi 
+2023-10-25 22:24:28,442 INFO  [Log] https://www.n11.com/ url acildi 
+2023-10-25 22:24:35,286 ERROR [Log] Cerezler kabul edilemedi. 
+2023-11-01 22:35:22,007 INFO  [Log] N11 UI Testi basladi 
+2023-11-01 22:35:45,771 INFO  [Log] https://www.n11.com/   test Url acildi 
+2023-11-01 22:35:45,852 INFO  [Log] https://www.n11.com/ url acildi 
+2023-11-01 22:35:52,149 ERROR [Log] Cerezler kabul edilemedi. 
+2024-02-21 09:42:59,796 INFO  [Log] N11 UI Testi basladi 
